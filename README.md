@@ -122,7 +122,7 @@ python cnn.py
 
 - All scores are around **0.98–1.00**, showing that the model performs almost perfectly across all classes, with very few or no misclassifications.
 
---
+---
 
 
 <p align="center">
