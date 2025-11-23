@@ -80,7 +80,7 @@ python cnn.py
 3- Model Evaluation :
 
 <p align="center">
-<img width="990" height="451" alt="download (7)" src="https://github.com/user-attachments/assets/519e16de-d3bd-41f3-be6d-2f8a7e3bafa2" />
+<img width="1859" height="847" alt="Capture_2025_11_23_23_19_12_521" src="https://github.com/user-attachments/assets/4cc1677b-856e-46ca-b85f-4c3e0b321514" />
 </p>
 
 - The figure above shows how the model’s **accuracy** and **loss** changed during training.
@@ -96,7 +96,7 @@ python cnn.py
 ---
 
 <p align="center">
-<img width="844" height="490" alt="download (8)" src="https://github.com/user-attachments/assets/771eecad-07ef-48d6-96d2-ae423dd503f6" />
+<img width="1859" height="1075" alt="Capture_2025_11_23_23_19_25_346" src="https://github.com/user-attachments/assets/5a46f260-0ea7-402d-bde8-00eb9b8d4ca8" />
 </p>
 
 
@@ -110,7 +110,7 @@ python cnn.py
 
 
 <p align="center">
-<img width="771" height="451" alt="download (9)" src="https://github.com/user-attachments/assets/5e42177f-4260-4e25-831a-d1ae6aecbe01" />
+<img width="1723" height="1011" alt="Capture_2025_11_23_23_19_34_1" src="https://github.com/user-attachments/assets/f32674f5-a11f-4932-a3c1-d0fc63e32dee" />
 </p>
 
 
@@ -126,7 +126,7 @@ python cnn.py
 
 
 <p align="center">
-<img width="619" height="547" alt="download (10)" src="https://github.com/user-attachments/assets/fbe697ff-5db9-4eea-a1eb-4399131ef026" />
+<img width="1385" height="1224" alt="Capture_2025_11_23_23_19_46_140" src="https://github.com/user-attachments/assets/619a050e-104e-4978-bb48-dbfee191b054" />
 </p>
 
 
@@ -142,7 +142,7 @@ python cnn.py
 
 
 <p align="center">
-<img width="1001" height="701" alt="download (11)" src="https://github.com/user-attachments/assets/ae37277d-7411-42ff-8137-410a3581ed2c" />
+<img width="1850" height="1291" alt="Capture_2025_11_23_23_19_54_34" src="https://github.com/user-attachments/assets/9ade006f-7d92-4267-8a64-57566bb217d9" />
 </p>
 
 
