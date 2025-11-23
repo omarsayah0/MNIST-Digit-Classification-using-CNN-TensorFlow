@@ -51,7 +51,7 @@ It visualizes training performance, evaluates model accuracy, and displays key m
 | **Output (10, Softmax)** | Gives the final prediction — which digit (0–9) the image represents. |
 
 **In short:**  
-The CNN learns step by step — first detecting simple edges, then shapes, and finally full digits.
+The CNN learns step by step first detecting simple edges, then shapes, and finally full digits.
 
 
 ### 3️⃣ Model Training
